@@ -1802,6 +1802,32 @@ body {
 .cid-rhwKdbJeap B {
   color: #149dcc;
 }
+.cid-rhzB3Gqmyo {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rhzB3Gqmyo .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rhzB3Gqmyo .section-text {
+  padding: 2rem 0;
+}
+.cid-rhzB3Gqmyo .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rhzB3Gqmyo .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rhzB3Gqmyo .section-text DIV {
+  text-align: center;
+}
 .cid-rhzowsxQkC {
   padding-top: 0px;
   padding-bottom: 0px;
