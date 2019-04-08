@@ -2527,12 +2527,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2018-01-16-23-51-41-029-com.niklabs.pp-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2018-01-16-23-51-41-029-com.niklabs.pp-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/sada-lubnan-566x520.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sada-lubnan-566x520-566x520.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://159.89.143.139:8000/live/ahmad/3737/203.ts\">SADA LUBNAN</a>",
+                "caption": "<a href=\"http://159.89.143.139:8000/live/ahmad/3737/203.m3u8\">SADA LUBNAN</a>",
                 "active": true
               },
               {
